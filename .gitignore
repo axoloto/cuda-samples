@@ -1,0 +1,13 @@
+*.cmake
+*.vcxproj
+*.vcxproj.user
+*.filters
+*.sln
+*.exe
+*.lib
+*.pdb
+*.exp
+
+x64/
+.vscode/
+.vs
